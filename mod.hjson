@@ -1,0 +1,16 @@
+name: cheese-mod
+displayName: Silicon Cheese
+author: stupid
+description:
+  '''
+  Totally not a resprite for siligone........
+  
+  Designed for the uh. Yes
+  
+  WARNING: Recommended for low-end devices.
+  
+  '''
+version: 1.0.1
+minGameVersion: 136
+dependencies: []
+hideBrowser: true
